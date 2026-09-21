@@ -1,9 +1,7 @@
--- ============================================================
 -- PostgreSQL Exercises - Basic section
 -- https://pgexercises.com/questions/basic/
 -- Dataset: cd (country club) - facilities, members, bookings
 -- Solved: 2026-09-19
--- ============================================================
 
 
 -- 1. Retrieve all the information from the cd.facilities table
